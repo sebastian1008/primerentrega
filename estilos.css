@@ -1,0 +1,73 @@
+.strow{
+    margin-left: 50px;
+    text-align: center;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+.texto1{
+    color: rgb(250, 245, 245);
+    text-align: center;
+}
+.fondo{
+    background-color: rgb(12, 143, 88);
+}
+.fondo2{
+    background-color: rgb(2, 255, 107);
+}
+.imgg{
+    width: 90px;
+    height: 90px;
+
+}
+
+.titulo{
+    text-align: center;
+    color: darkslategray;
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    color: darksalmon;
+}
+.img1{
+    width: 400px;
+    height: 350px;
+}
+.p1{
+    font-size: 30px;
+    font-family: initial;
+    font-style: italic;
+    color: rgba(18, 0, 32, 0.774);
+    text-align: justify;
+}
+footer{
+    background: white;
+    text-align: justify;
+}
+.inf{
+    text-align: center;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+
+}
+.fondop{
+    background-color: rgb(131, 196, 47);
+}
+.p2{
+    color: darkslategray;
+    text-align: center;
+    font-size: 25px;
+}
+.margen{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+p{
+    font-size: 40px;
+}
