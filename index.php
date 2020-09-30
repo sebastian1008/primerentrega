@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Supermercado</title>
+    <title>tienda del verde</title>
 </head>
 <body class="bg-dark">
 b
