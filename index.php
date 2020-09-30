@@ -9,7 +9,7 @@
     <title>tienda del verde</title>
 </head>
 <body class="bg-dark">
-b
+
 <header>
 <nav class="navbar navbar-expand-lg  navbar-light bg-light fixed-top">
 
